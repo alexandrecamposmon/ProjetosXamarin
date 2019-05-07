@@ -25,13 +25,13 @@ namespace TipoPageXF.TipoPagina.Master
         private void Btn02_Clicked(object sender, EventArgs e)
         {
 
-            //Detail = new NavigationPage(new Navigation.Pagina2());
+            Detail = new NavigationPage(new Navigation.Pagina2());
         }
 
         private void Btn03_Clicked(object sender, EventArgs e)
         {
 
-            //Detail = new NavigationPage(new Conteudo());
+            Detail = new NavigationPage(new Conteudo());
         }
     }
 }
