@@ -157,4 +157,16 @@
       <Name>TipoPageXF</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\SetaParaEsquerda.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\pesquisar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\detalhes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ordenar.png" />
+  </ItemGroup>
 </Project>

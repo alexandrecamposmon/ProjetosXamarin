@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CarouselPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:tipoPagina="clr-namespace:TipoPageXF.TipoPagina.Carousel"
+             x:Class="TipoPageXF.TipoPagina.Carousel.Introducao">
+
+    <!--PAGINAS JÁ EXISTENTES-->
+    <tipoPagina:TipoPagina1 />
+    <tipoPagina:TipoPagina2 />
+    <tipoPagina:TipoPagina3 />
+    
+    
+    <!--ITENS MANUAIS-->
+    <!--<ContentPage>
+        <Label Text="Pagina 1" />
+    </ContentPage>
+    <ContentPage>
+        <Label Text="Pagina 2" />
+    </ContentPage>
+    <ContentPage>
+        <Label Text="Pagina 3" />
+    </ContentPage>-->
+</CarouselPage>
